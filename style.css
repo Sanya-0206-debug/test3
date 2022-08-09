@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 25%;
+    margin: 0px;
+    font-size: 20px;
+}
+#start,#number_of_object,#status{
+    font-size: 15px;
+}
+.footer{
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    background-color: white;
+    color: black;
+    bottom: 0px;
+    text-align: center;
+    font-weight: bolder;
+}
